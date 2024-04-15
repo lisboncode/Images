@@ -56,5 +56,5 @@
     <policy domain="coder" rights="read|write" pattern="{GIF,JPEG,PNG,WEBP}" />
 -->
 <policymap>
-
+  <policy domain="coder" rights="read|write" pattern="{GIF,JPEG,PNG,WEBP, PDF}" />
 </policymap>
